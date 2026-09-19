@@ -1,0 +1,6 @@
+@Retrieving_Records_with_LINQ_HostAddress = http://localhost:5092
+
+GET {{Retrieving_Records_with_LINQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
